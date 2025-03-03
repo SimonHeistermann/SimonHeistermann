@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hey, I'm Simon!  
 
-<!--
-**SimonHeistermann/SimonHeistermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **18 years old** and currently training to become a **Fullstack Software Developer** at **Developer Akademie**. 💻🚀  
+Right now, I'm focusing on **JavaScript and frontend development**, with **Angular and backend development coming soon!**  
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack  
+🖥 **Frontend:** HTML | CSS | JavaScript  
+🔜 **Next Up:** Angular & Advanced Frontend Development  
+🛠 **Backend:** *Coming Soon...* ⏳  
+📦 **Tools:** Git | GitHub | VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects  
+🔹 [Join](https://github.com/YOUR_USERNAME/Join) – A project management tool 🏗  
+🔹 [Pokedex-DA](https://github.com/YOUR_USERNAME/Pokedex-DA) – A dynamic Pokédex using PokéAPI 🔥  
+🔹 [Tic-Tac-Toe](https://github.com/YOUR_USERNAME/Tic-Tac-Toe) – A local 1v1 game 🎮  
+
+## 📫 Let's connect!  
+📧 **Email:** buisness.heistermann@icloud.com
+💼 **LinkedIn:** [Simon Heistermann](https://www.linkedin.com/in/simon-maximilian-heistermann-419531250/)  
+
+---
+
+💡 I'm passionate about problem-solving and constantly improving my coding skills!  
+🚀 **I'm excited about the future and always up for new challenges!**
+
