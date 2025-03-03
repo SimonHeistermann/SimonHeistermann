@@ -16,7 +16,7 @@ Right now, I'm focusing on **JavaScript and frontend development**, with **Angul
 
 ## 📫 Let's connect!  
 📧 **Email:** buisness.heistermann@icloud.com
-💼 **LinkedIn:** [Simon Heistermann](https://www.linkedin.com/in/simon-maximilian-heistermann-419531250/)  
+ 💼 **LinkedIn:** [Simon Heistermann](https://www.linkedin.com/in/simon-maximilian-heistermann-419531250/)  
 
 ---
 
