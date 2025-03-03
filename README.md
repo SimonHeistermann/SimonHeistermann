@@ -10,7 +10,7 @@ Right now, I'm focusing on **JavaScript and frontend development**, with **Angul
 📦 **Tools:** Git | GitHub | VS Code  
 
 ## 📌 Projects  
-🔹 [Join](https://github.com/SimonHeistermann/Join) – A project management tool 🏗  
+🔹 [Join](https://github.com/SimonHeistermann/Join-DA) – A project management tool 🏗  
 🔹 [Pokedex-DA](https://github.com/SimonHeistermann/Pokedex-DA) – A dynamic Pokédex using PokéAPI 🔥  
 🔹 [Tic-Tac-Toe](https://github.com/SimonHeistermann/Tic-Tac-Toe) – A local 1v1 game 🎮  
 
