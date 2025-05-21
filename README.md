@@ -15,7 +15,7 @@ Right now, I'm focusing on **JavaScript and frontend development**, with **Angul
 🔹 [Tic-Tac-Toe](https://github.com/SimonHeistermann/Tic-Tac-Toe) – A local 1v1 game 🎮  
 
 ## 📫 Let's connect!  
-📧 **Email:** buisness.heistermann@icloud.com
+📧 **Email:** buisness@heistermann-solutions.de
  💼 **LinkedIn:** [Simon Heistermann](https://www.linkedin.com/in/simon-maximilian-heistermann-419531250/)  
 
 ---
