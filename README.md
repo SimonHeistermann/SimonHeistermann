@@ -25,7 +25,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
  </div>
  <div align="right">
-  <img src="https://github-readmestats.vercel.app/api/toplangsusername=SimonHeistermann&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true&order=2" height="" alt="languages graph"  />
+  <div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SimonHeistermann&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
  </div>
 </div>
 
