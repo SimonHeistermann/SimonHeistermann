@@ -3,6 +3,7 @@
 ###
 
 <p align="left">I'm <b>18 years old</b> and currently training to become a <b>Fullstack Software Developer</b> at <b>Developer Akademie</b>. 💻🚀<br>Right now, I'm focusing on <b>Angular and frontend development</b>, with <b>backend development coming soon!</b></p>
+<p align="left">🌐 <b>Check my projects here:</b> <a href="https://simon-heistermann.de">simon-heistermann.de</a></p>
 
 ###
 
@@ -24,10 +25,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
  </div>
- <div align="right">
-  <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SimonHeistermann&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
  </div>
@@ -39,8 +36,8 @@
 
 ###
 
-📧 **Email:** buisness.heistermann@icloud.com
-💼 **LinkedIn:** [Simon Heistermann](https://www.linkedin.com/in/simon-maximilian-heistermann-419531250/)  
+<p>📧 <b>Email:</b> <a href="mailto:buisness.heistermann@icloud.com">buisness.heistermann@icloud.com</a></p>
+<p>💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/simon-maximilian-heistermann-419531250/" target="_blank">Simon Heistermann</a></p>
 
 ---
 
