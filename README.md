@@ -25,8 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
  </div>
  <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?   
-  username=SimonHeistermann&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true&order=2" height="" alt="languages graph"  />
+  <img 
+   src="https://github-readme-stats.vercel.app/api/top-langs?  username=SimonHeistermann&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true&order=2" height="" alt="languages graph"  />
  </div>
 </div>
 
@@ -36,16 +36,10 @@
 
 ###
 
-<p align="left">📧 <b>Email:</b> buisness@heistermann-solutions.de</p>
+📧 **Email:** buisness.heistermann@icloud.com
+💼 **LinkedIn:** [Simon Heistermann](https://www.linkedin.com/in/simon-maximilian-heistermann-419531250/)  
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
-
-###
+---
 
 <p>💡 I'm passionate about problem-solving and constantly improving my coding skills!</p>
 <p>🚀 <b>I'm excited about the future and always up for new challenges!</b></p>
