@@ -36,7 +36,7 @@
 
 ###
 
-<p>📧 <b>Email:</b> <a href="mailto:buisness.heistermann@icloud.com">buisness.heistermann@icloud.com</a></p>
+<p>📧 <b>Email:</b> <a href="mailto:buisness@heistermann-solutions.de">buisness@heistermann-solutions.de</a></p>
 <p>💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/simon-maximilian-heistermann-419531250/" target="_blank">Simon Heistermann</a></p>
 
 ---
