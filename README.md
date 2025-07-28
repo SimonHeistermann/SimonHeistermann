@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm <b>18 years old</b> and currently training to become a <b>Fullstack Software Developer</b> at <b>Developer Akademie</b>. 💻🚀<br>Right now, I'm focusing on <b>Angular and frontend development</b>, with <b>backend development coming soon!</b></p>
+<p align="left">I'm <b>19 years old</b> and currently training to become a <b>Fullstack Software Developer</b> at <b>Developer Akademie</b>. 💻🚀<br>Right now, I'm focusing on <b>Angular and frontend development</b>, with <b>backend development coming soon!</b></p>
 <p align="left">🌐 <b>Check my projects here:</b> <a href="https://simon-heistermann.de">simon-heistermann.de</a></p>
 
 ###
