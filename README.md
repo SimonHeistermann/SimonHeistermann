@@ -87,6 +87,6 @@ Three lanes I operate in:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Simon_Heistermann-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simonheistermann/)
 [![Instagram](https://img.shields.io/badge/Instagram-@darewithsimon-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/darewithsimon/)
 [![YouTube](https://img.shields.io/badge/YouTube-@darewithsimon-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@darewithsimon)
-[![Email](https://img.shields.io/badge/Email-simon@heistermann-solutions.de-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:simon@heistermann-solutions.de)
+[![Email](https://img.shields.io/badge/Email-simon@heistermann--solutions.de-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:simon@heistermann-solutions.de)
 
 <br>
