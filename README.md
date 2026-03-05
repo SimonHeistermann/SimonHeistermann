@@ -1,6 +1,6 @@
 <h1>Simon Heistermann</h1>
 
-**19 y/o Founder & Fullstack Developer** — building ventures that close the gap between potential and opportunity.
+**19 y/o Founder & Fullstack Developer** - building ventures that close the gap between potential and opportunity.
 
 Studying **B.A. Responsible Entrepreneurship** at [Tomorrow University](https://www.tomorrow.university/).
 
