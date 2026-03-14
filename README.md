@@ -54,13 +54,16 @@
 
   <br>
 
-  ## 📫 Let's Connect
+  ## Let's Connect
 
-  [![Portfolio](https://img.shields.io/badge/simon--heistermann.de-1B2A4A?style=for-the-badge)](https://simon-heistermann.d
-  e)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www
-  .linkedin.com/in/simonheistermann/)
-  [![Instagram](https://img.shields.io/badge/@darewithsimon-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](htt
-  ps://www.instagram.com/darewithsimon/)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simon@heister
-  mann-solutions.de)
+  <p>
+    <a href="https://simon-heistermann.de"><img 
+  src="https://img.shields.io/badge/simon--heistermann.de-1B2A4A?style=for-the-badge" alt="Portfolio"></a>
+    <a href="https://www.linkedin.com/in/simonheistermann/"><img 
+  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.instagram.com/darewithsimon/"><img 
+  src="https://img.shields.io/badge/%40darewithsimon-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+  alt="Instagram"></a>
+    <a href="mailto:simon@heistermann-solutions.de"><img 
+  src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
